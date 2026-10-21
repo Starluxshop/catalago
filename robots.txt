@@ -1,0 +1,6 @@
+# Permite el rastreo de todos los bots
+User-agent: *
+Allow: /
+
+# Ubicación del mapa del sitio
+Sitemap: https://starluxshop.vercel.app/sitemap.xml
