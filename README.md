@@ -1,1 +1,1 @@
-# catalago
+# starlux-shop
